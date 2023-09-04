@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GymBookingApp</string>
+    <string name="logo_description">In Time Tec</string>
+    <string name="login_message">Welcome back !</string>
+    <string name="login_message_2">Sign in to your account</string>
+    <string name="login_email_label">e-mail</string>
+    <string name="login_password_label">password</string>
+    <string name="login_button">Login</string>
+    <string name="login_quote">Dare to be great</string>
+    <string name="login_email_link">login using e-mail verification</string>
+    <string name="booking_tv_name">Name</string>
+    <string name="booking_tv_email">E-Mail</string>
+    <string name="booking_tv_location">Location</string>
+    <string name="booking_tv_slots">Slots</string>
+    <string name="booking_btn">Book Slot</string>
+    <string name="spinnerDescription">Available Slots</string>
+    <string name="current_slot">Current Slot</string>
+    <string name="current_slot_detail">Select Slot and Book</string>
+
+    <string-array name="time_slots">
+        <item>6:00–7:00</item>
+        <item>7:00–8:00</item>
+        <item>8:00–9:00</item>
+        <item>17:00–18:00</item>
+        <item>18:00–19:00</item>
+        <item>19:00–20:00</item>
+    </string-array>
+</resources>
